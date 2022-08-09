@@ -1,0 +1,34 @@
+{
+    "Footer":{
+        "contact": "Contact me!",
+        "name": "Name",
+        "email": "Email",
+        "msg": "Message",
+        "send": "Send",
+        "info": "Made with React, Prime React y React Flex.",
+        "lang": "Select the language"
+    },
+    "Header":{
+        "about": "About",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "Projects":{
+        "title": "Projects",
+        "descP1": "E-commerce web application for the sale of floors and paints. Created by Ezequiel Martino and Gonzalo Perez for theoretical/practical purposes. Developed with React, JavaScript, Boostrap, HTML/CSS, Kotlin y SpringBoot.",
+        "descP2": "Mobile application for parking ramp rental. Created by Ezequiel Martino and Gonzalo Perez for theoretical/practical purposes. Developed with React Native, JavaScript, Kotlin y SpringBoot."
+    },
+    "About":{
+        "desc":"Fullstack web developer looking for a first job, especially interested in React development.",
+        "btn": "Download resume",
+        "cardTitle": "About me",
+        "cardDesc": "I'm 21 years old, I live in Buenos Aires, Argentina and I'm about to graduate as a developer from the UNSAM.",
+        "cardDesc2": "I have experience in a team development of web aplications with React and SpringBoot, JavaScript, Kotlin, HTML/CSS and databases such as MySQL, MongoDB, Neo4J, Redis."
+    },
+    "Toast":{
+        "successTitle": "Message sent successfully!",
+        "errorTitle": "Error while sending the message",
+        "successMsg": "I will respond as soon as possible",
+        "errorMsg": "Please, resend the message."
+    }
+}

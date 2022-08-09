@@ -1,0 +1,35 @@
+{
+    "Footer":{
+        "contact": "Contactame!",
+        "name": "Nombre",
+        "email": "Email",
+        "msg": "Mensaje",
+        "send": "Enviar",
+        "info": "Creado con React, Prime React y React Flex.",
+        "lang": "Selecciona el idioma"
+    },
+    "Header":{
+        "about": "Sobre mi",
+        "projects": "Proyectos",
+        "contact": "Contacto"
+    },
+    "Projects":{
+        "title": "Proyectos Realizados",
+        "descP1": "Aplicacion web tipo e-commerce de venta de pisos y pinturas. Creada por Ezequiel Martino y Gonzalo Perez con fines teorico/prácticos. Desarrollada con React, JavaScript, Boostrap, HTML/CSS, Kotlin, SpringBoot, Github y Docker.",
+        "descP2": "Aplicacion mobile de alquiler de rampas para el estacionamiento. Creada por Ezequiel Martino y Gonzalo Perez con fines teorico/prácticos. Desarrollada con React Native, JavaScript, Kotlin, SpringBoot y Github"
+    },
+    "About":{
+        "desc":"Desarrollador web fullstack buscando un primer empleo, interesado especialmente en el desarrollo con React.",
+        "btn": "Descargar curriculum",
+        "cardTitle": "Sobre mi",
+        "cardDesc": "Tengo 21 años, vivo en Buenos Aires, Argentina y estoy cercano a graduarme como técnico en programación en la UNSAM.",
+        "cardDesc2": "Cuento con experiencia en el desarrollo en equipo de aplicaciones web con React y SpringBoot, JavaScript, Kotlin, HTML/CSS y bases de datos como MySQL, MongoDB, Neo4J, Redis."
+    },
+    "Toast":{
+        "successTitle": "Mensaje enviado correctamente!",
+        "errorTitle": "Error al enviar el mensaje",
+        "successMsg": "Responderé a la brevedad.",
+        "errorMsg": "Por favor, volver a intentarlo."
+    }
+    
+}
